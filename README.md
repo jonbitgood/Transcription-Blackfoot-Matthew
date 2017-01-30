@@ -1,4 +1,4 @@
-# Danezaa: Gospel of Mark
+# The Gospel of Matthew in Blackfoot
 
 ## Translation Information
 
